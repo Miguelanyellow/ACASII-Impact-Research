@@ -21,7 +21,10 @@ This study evaluates how ACASII (Automated Causal Assessment for Survey Item Int
 - OSF for pre-registration
 
 ## 📜 License
-This project is shared under the MIT License. See `LICENSE` for details.
+
+This repository is shared under the [MIT License](LICENSE), promoting open collaboration and transparent reproducibility.  
+By licensing this project, we aim to foster modular research workflows and encourage methodological rigor across analytical environments.
+
 
 ## 📬 Contact
 
